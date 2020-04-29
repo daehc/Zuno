@@ -41,7 +41,7 @@ button {
     font-size: 16px;
 }
 #note{
-    background-color: rgb(64, 163, 64);
+    background-color: lightblue;
     color: white;
     grid-column: 1/2;
     grid-row: 1/2;
